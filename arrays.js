@@ -13,4 +13,3 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return nameArray
 
 }
-
